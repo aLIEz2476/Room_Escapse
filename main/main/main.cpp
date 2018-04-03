@@ -85,7 +85,7 @@ int main()
 		}
 		else if (sel == 3)
 		{
-			Sleep(2000)
+			Sleep(2000);
 			printf("\n\n건진 게 없다.\n아무래도 다른 곳을 찾는 게 낫겟다.\n\n");
 		}
 		else if (sel == 4)
