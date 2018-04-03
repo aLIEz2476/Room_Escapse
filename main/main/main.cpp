@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<time.h>
-#include<Windows.h>
+#include<Windows.h> //
 #define WAIT 7
 int main()
 {
