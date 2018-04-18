@@ -92,6 +92,7 @@ int main()
 		{
 			if (tool_3 == 3)
 			{
+				Sleep(2000);
 				printf("\n\n이미 찾은 곳이다. 다른 곳을 찾자.\n\n");
 			}
 			else
@@ -107,6 +108,7 @@ int main()
 		{
 			if (tool_4 == 4)
 			{
+				Sleep(2000);
 				printf("\n\n이미 찾은 곳이다. 다른 곳을 찾자.\n\n");
 			}
 			else
